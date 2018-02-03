@@ -91,6 +91,7 @@ img {
   box-sizing: border-box;
   color: #fff;
   display: block;
+  height: auto;
   margin: 40px 0;
   max-width: 100%;
 }
