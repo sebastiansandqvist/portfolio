@@ -7,8 +7,8 @@
       "**/node_modules/**"
     ],
     "rewrites": [{
-      "source": "/web",
-      "destination": "/web.html"
+      "source": "/photo",
+      "destination": "/photo.html"
     }]
   }
 }
