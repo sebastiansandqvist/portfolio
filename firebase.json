@@ -6,9 +6,15 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "rewrites": [{
-      "source": "/photo",
-      "destination": "/photo.html"
-    }]
+    "rewrites": [
+      {
+        "source": "/photo",
+        "destination": "/photo.html"
+      },
+      {
+        "source": "/web",
+        "destination": "/index.html"
+      }
+    ]
   }
 }
